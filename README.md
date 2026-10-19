@@ -132,8 +132,8 @@ ETF_Prediction/
 
 ## ✍️ Author
 
-**Aditya Kaushik**
-*ML + Finance Enthusiast | Python Developer*
+**Yuvika Singh**
+*AI/ML | Python Developer*
 
 ---
 
